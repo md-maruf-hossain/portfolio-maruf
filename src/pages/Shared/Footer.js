@@ -5,16 +5,16 @@ const Footer = () => {
   return (
     <footer className="py-6 bg-gray-100 text-gray-900">
       <div className="container px-6 mx-auto space-y-6 divide-y divide-gray-400 md:space-y-12 divide-opacity-50">
-        <div className="grid justify-center pt-6 lg:justify-between">
-          <div className="flex flex-col self-center text-lg text-center md:block lg:col-start-1 md:space-x-6">
+        <div className="">
+          <div className="flex flex-col self-center text-lg text-center mb-5 md:block lg:col-start-1 md:space-x-6">
             <span>Copyright © 2023, Maruf Hossain - All rights reserved</span>
           </div>
-          <div className="flex justify-center pt-4 space-x-4 lg:pt-0 lg:col-end-13">
+          <div className="flex justify-center space-x-4 lg:pt-0 col-end-13">
             <Link
               rel="noopener noreferrer"
               href="#"
               title="Email"
-              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 text-gray-50"
+              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 bg-light-blue-400 "
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -30,7 +30,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               href="#"
               title="Twitter"
-              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 text-gray-50"
+              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 bg-light-blue-400 "
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -45,7 +45,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               href="#"
               title="Twitter"
-              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 text-gray-50"
+              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 bg-light-blue-400 "
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -60,7 +60,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               href="#"
               title="Twitter"
-              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 text-gray-50"
+              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 bg-light-blue-400 "
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -75,7 +75,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               href="#"
               title="Twitter"
-              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 text-gray-50"
+              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 bg-light-blue-400 "
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -90,7 +90,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               href="#"
               title="GitHub"
-              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 text-gray-50"
+              className="flex items-center justify-center w-10 h-10 rounded-full bg-emerald-600 bg-light-blue-400 "
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
