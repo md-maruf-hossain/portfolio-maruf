@@ -12,7 +12,7 @@ const BlogCard = ({ blog }) => {
     const { name, image } = blog;
 
   return (
-    <Card className="w-96">
+    <Card className="w-96 mb-6">
       <CardHeader color="blue" className="relative h-56">
         <img src={image} alt="img-blur-shadow" className="h-full w-full" />
       </CardHeader>
@@ -22,7 +22,7 @@ const BlogCard = ({ blog }) => {
         </Typography>
       </CardBody>
       <CardFooter divider className="flex items-center justify-end py-3">
-        <Button variant="filled">My Resume</Button>
+        <Button variant="filled">Details</Button>
       </CardFooter>
     </Card>
   );
