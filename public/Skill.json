@@ -2,67 +2,67 @@
   {
     "id": 1,
     "name": "HTML",
-    "image": "../src/assests/tech_logo/html.svg",
+    "image": "https://i.ibb.co/ZLM2PwL/html.jpg",
     "value": 90
   },
   {
     "id": 2,
     "name": "CSS",
-    "image": "../src/assests/tech_logo/css.svg",
+    "image": "https://i.ibb.co/VSSht6P/css.jpg",
     "value": 80
   },
   {
     "id": 3,
     "name": "Javascript",
-    "image": "../src/assests/tech_logo/javascript.svg",
+    "image": "https://i.ibb.co/277Rbnp/javascript.jpg",
     "value": 70
   },
   {
     "id": 4,
     "name": "React",
-    "image": "../src/assests/tech_logo/react.svg",
+    "image": "https://i.ibb.co/B4t0gLZ/react.jpg",
     "value": 80
   },
   {
     "id": 5,
     "name": "Redux",
-    "image": "../src/assests/tech_logo/redux.svg",
+    "image": "https://i.ibb.co/fHV47Bt/redux.jpg",
     "value": 55
   },
   {
     "id": 6,
     "name": "Node JS",
-    "image": "../src/assests/tech_logo/nodejs.svg",
+    "image": "https://i.ibb.co/kqNpcJW/nodejs.jpg",
     "value": 65
   },
   {
     "id": 7,
     "name": "Express JS",
-    "image": "../src/assests/tech_logo/express.svg",
+    "image": "https://i.ibb.co/mGg9pqx/express.png",
     "value": 65
   },
   {
     "id": 8,
     "name": "MongoDB",
-    "image": "../src/assests/tech_logo/mongodb.svg",
+    "image": "https://i.ibb.co/zbQCJ0M/mongodb.jpg",
     "value": 60
   },
   {
     "id": 9,
     "name": "Tailwind CSS",
-    "image": "../src/assests/tech_logo/tailwindcss.svg",
+    "image": "https://i.ibb.co/M79Dg1Z/tailwindcss.jpg",
     "value": 85
   },
   {
     "id": 10,
     "name": "Bootstrap",
-    "image": "../src/assests/tech_logo/bootstrap.svg",
+    "image": "https://i.ibb.co/NrRLP2c/bootstrap.jpg",
     "value": 80
   },
   {
     "id": 11,
     "name": "Firebase",
-    "image": "../src/assests/tech_logo/firebase.svg",
+    "image": "https://i.ibb.co/6Wq4tXw/firebase.jpg",
     "value": 75
   }
 ]

@@ -15,8 +15,11 @@ const Blog = () => {
   return (
     <div className="flex flex-col justify-center items-center">
       <div>
-        <h2 className="text-center text-3xl font-semibold">Blog</h2>
-        <hr className="mb-10 mt-2 border-1 mx-auto border-blue-gray-300" />
+        <h2 className="text-center text-3xl font-semibold">
+          My {" "}
+          <span className="text-light-blue-600">Blogs</span>
+        </h2>
+        <hr className="w-24 mb-10 mt-2 border-1 mx-auto border-blue-gray-300" />
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 justify-center gap-6">
         {blogs.map((blog) => (
