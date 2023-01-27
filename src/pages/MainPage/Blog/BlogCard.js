@@ -9,7 +9,7 @@ import {
 } from "@material-tailwind/react";
 
 const BlogCard = ({ blog }) => {
-    const { name, image } = blog;
+  const { name, image, link } = blog;
 
   return (
     <Card className="w-96 mb-6">
@@ -22,7 +22,9 @@ const BlogCard = ({ blog }) => {
         </Typography>
       </CardBody>
       <CardFooter divider className="flex items-center justify-end py-3">
-        <Button variant="filled">Details</Button>
+        <a target="_blank" href={link}>
+          <Button variant="filled">Details</Button>
+        </a>
       </CardFooter>
     </Card>
   );

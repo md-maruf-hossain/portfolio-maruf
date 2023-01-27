@@ -3,7 +3,7 @@ import React from "react";
 import coding from "../../../assests/code.png";
 const About = () => {
   return (
-    <div>
+    <div id="about">
       <div>
         <p className="text-4xl font-semibold text-center -mb-14">
           About <span className="text-light-blue-600">Me</span>
@@ -32,8 +32,15 @@ const About = () => {
               <br />
             </p>
             <div className="flex w-max gap-4 mt-4">
-              <Button variant="filled">My Resume</Button>
-              <Button variant="outlined">GitHub</Button>
+              <a
+                target="_blank"
+                href="https://drive.google.com/file/d/1aqW3QwSf2tuMTYKb2dJncbiGHewKj-hV/view?usp=share_link"
+              >
+                <Button variant="filled">My Resume</Button>
+              </a>
+              <a target="_blank" href="https://github.com/md-maruf-hossain">
+                <Button variant="outlined">GitHub</Button>
+              </a>
             </div>
           </div>
         </div>

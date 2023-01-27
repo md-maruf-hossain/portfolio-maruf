@@ -2,16 +2,19 @@
   {
     "id": "1",
     "name": "MERN Stack in Development sector. It's scope and future",
-    "image": "https://i.ibb.co/WzSGx60/mern.webp"
+    "image": "https://i.ibb.co/WzSGx60/mern.webp",
+    "link": "https://medium.com/@mdmarufhossain6470/mern-stack-in-development-sector-its-scope-and-future-6b41bc80781e"
   },
   {
     "id": "2",
     "name": "5 React JS Tricks That Distinguish Senior Developers From Juniors",
-    "image": "https://i.ibb.co/PFH3Ckw/10-Tips-Tricks-To-Make-You-a-Better-React-Developer-1024x640.png"
+    "image": "https://i.ibb.co/PFH3Ckw/10-Tips-Tricks-To-Make-You-a-Better-React-Developer-1024x640.png",
+    "link": "https://medium.com/@mdmarufhossain6470/5-react-js-tricks-that-distinguish-senior-developers-from-juniors-944e63760876"
   },
   {
     "id": "3",
     "name": "Top 10 topics you should know about React JS",
-    "image": "https://i.ibb.co/wYS8v8k/1-Aqluh-2-M2p-FHFo-I8-I444g.webp"
+    "image": "https://i.ibb.co/wYS8v8k/1-Aqluh-2-M2p-FHFo-I8-I444g.webp",
+    "link": "https://medium.com/@mdmarufhossain6470/top-10-topics-you-should-know-about-react-js-b1e2834512cf"
   }
 ]

@@ -12,7 +12,7 @@ const MySkills = () => {
       .then((data) => setSkills(data));
   }, []);
   return (
-    <div className="flex flex-col items-center justify-center">
+    <div className="flex flex-col items-center justify-center" id="skills">
       <div className="mb-6">
         <h2 className="text-center text-3xl font-semibold">
           My <span className="text-light-blue-600">Skills</span>

@@ -5,7 +5,7 @@ import { Button } from "@material-tailwind/react";
 
 const Hero = () => {
   return (
-    <div className="flex flex-col justify-between px-4 mb-7 mx-auto lg:flex-row md:px-8 lg:max-w-screen-xl lg:mt-5">
+    <div className="flex flex-col justify-between px-4 mb-7 mx-auto lg:flex-row md:px-8 lg:max-w-screen-xl lg:mt-5" id="hero">
       <div className="pt-16 mb-16 lg:mb-0 lg:pt-16 lg:max-w-lg lg:pr-5">
         <div className="max-w-xl mb-6">
           <p className="text-base mb-2 md:text-lg">Hi, I am</p>
