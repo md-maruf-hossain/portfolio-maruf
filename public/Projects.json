@@ -1,5 +1,92 @@
 [
-    {
-        
-    }
+  {
+    "id": 1,
+    "name": "Well Be Care",
+    "photo": "https://i.ibb.co/7WjCQXy/1.png",
+    "description": "WellBe Care is a Full-stack website which is developed with the help of MERN stack. It is a dynamic website which has firebase authentication, react router and stripe feature. Admins can manage doctors and patients and add any doctors. Users can take any available appointment and make payments.",
+    "technologies": "React, DaisyUI, React Day Picker, Stripe, NodeJS, JWT,MongoDB, and Vercel",
+    "github": "https://github.com/md-maruf-hossain/wellbecare-client.git",
+    "liveSite": "https://wellbecare-6470.web.app/"
+  },
+  {
+    "id": 2,
+    "name": "Quantum Quiz",
+    "photo": "https://i.ibb.co/RyNhkmf/2.png",
+    "description": "A website where you can give quiz. You can experience the functionality of React route.You can give quiz and see your wrong answers by clicking eye icon on the left. If you give wrong answers you will find a toast that says your answer is wrong.",
+    "technologies": "React,React Router Dom, KitWind, Mambo, Recharts.",
+    "github": "https://github.com/md-maruf-hossain/quantum-quiz.git",
+    "liveSite": "https://quantumquiz.netlify.app/"
+  },
+  {
+    "id": 3,
+    "name": "Codex",
+    "photo": "https://i.ibb.co/bRTzn3B/3.png",
+    "description": "A website you can easily access and buy a course. Dynamic courses that can show details and can download pdf. It is a Single Page Application. It has Firebase Authentication.",
+    "technologies": "React, NodeJS, MongoDB, React-to-pdf, Firebase.",
+    "github": "https://github.com/md-maruf-hossain/codex-client.git",
+    "liveSite": "https://codex-web-application.web.app/"
+  },
+  {
+    "id": 4,
+    "name": "Shutters",
+    "photo": "https://i.ibb.co/yhzpCQL/4.png",
+    "description": "It is a Single Page Application. It has Firebase Authentication. You can create account using google authentication. You can experience private route functionality. Without login you cannot access routes.",
+    "technologies": "React, NodeJS, MongoDB, React-icons, Firebase, React-router, Vercel.",
+    "github": "https://github.com/md-maruf-hossain/shitters-client.git",
+    "liveSite": "https://shutter-photograph.web.app/"
+  },
+  {
+    "id": 5,
+    "name": "Fitness Garage",
+    "photo": "https://i.ibb.co/RQ1Fwbm/5.png",
+    "description": "It a responsive site for a person who does diffrent kinds of excercises. You can add your excercises and add break. Then you can see how many seconds you need to finish your daily exercise. The calculation of this site is done using JavaScript.",
+    "technologies": "React, React-tailwind, JavaScript.",
+    "github": "https://github.com/md-maruf-hossain/fiitness-garage.git",
+    "liveSite": "https://fitness-garage.netlify.app/"
+  },
+  {
+    "id": 6,
+    "name": "Influencer Gear",
+    "photo": "https://i.ibb.co/QmFsVK4/6.png",
+    "description": "It is an online e-commerce website which is designed with HTML and Vanilla CSS. You can only scroll through the website. There is no interactions added. It is besically a Figma to HTML and CSS project.",
+    "technologies": "HTML, CSS, Figma",
+    "github": "https://github.com/md-maruf-hossain/Influencer-Gear.git",
+    "liveSite": "https://md-maruf-hossain.github.io/Influencer-Gear/"
+  },
+  {
+    "id": 7,
+    "name": "Saving Master",
+    "photo": "https://i.ibb.co/x3qw1hC/7.png",
+    "description": "It a calculating project which shows how much money you can save and how much money you have left. It is created with HTML, Vanilla CSS and Vanilla JavaScript.",
+    "technologies": "HTML, CSS, JavaScript.",
+    "github": "https://github.com/md-maruf-hossain/saving-master.git",
+    "liveSite": "https://saving-mater.netlify.app/"
+  },
+  {
+    "id": 8,
+    "name": "Sale Xpress",
+    "photo": "https://i.ibb.co/QJSvyYj/8.png",
+    "description": "It is an online e-commerce website which is designed with HTML, Vanilla CSS and Tailwind CSS. You can only scroll through the website. There is no interactions added. It is besically a Figma to HTML and CSS project.",
+    "technologies": "HTML, CSS, Tailwind CSS.",
+    "github": "https://github.com/md-maruf-hossain/sale-xpress.git",
+    "liveSite": "https://sale-xpress.netlify.app/"
+  },
+  {
+    "id": 9,
+    "name": "Academia",
+    "photo": "https://i.ibb.co/nzXt14T/9.png",
+    "description": "It is a online learnin responsive website that is designed with HTML, Vanilla CSS and Bootstrap. There is no interactions added. It is besically a Figma to HTML and CSS project.",
+    "technologies": "HTML, CSS, Bootstrap.",
+    "github": "https://github.com/md-maruf-hossain/Academia.git",
+    "liveSite": "https://md-maruf-hossain.github.io/Academia/"
+  },
+  {
+    "id": 10,
+    "name": "Fantasy Five",
+    "photo": "https://i.ibb.co/HNJNL82/10.png",
+    "description": "It is a responsive website which is designed with HTML, Vanilla CSS, Bootstrap and JavaScript. You can add players and you can calculate the the of the team members. You can find javascript functionality.",
+    "technologies": "HTML, CSS, JavaScript and Bootstrap.",
+    "github": "https://github.com/md-maruf-hossain/fantasy-five.git",
+    "liveSite": "https://fantasy-five.netlify.app/"
+  }
 ]
