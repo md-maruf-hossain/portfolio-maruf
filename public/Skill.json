@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "image": "../src/assests/tech_logo/html.svg",
+    "value": 90
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "image": "../src/assests/tech_logo/css.svg",
+    "value": 80
+  },
+  {
+    "id": 3,
+    "name": "Javascript",
+    "image": "../src/assests/tech_logo/javascript.svg",
+    "value": 70
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "image": "../src/assests/tech_logo/react.svg",
+    "value": 80
+  },
+  {
+    "id": 5,
+    "name": "Redux",
+    "image": "../src/assests/tech_logo/redux.svg",
+    "value": 55
+  },
+  {
+    "id": 6,
+    "name": "Node JS",
+    "image": "../src/assests/tech_logo/nodejs.svg",
+    "value": 65
+  },
+  {
+    "id": 7,
+    "name": "Express JS",
+    "image": "../src/assests/tech_logo/express.svg",
+    "value": 65
+  },
+  {
+    "id": 8,
+    "name": "MongoDB",
+    "image": "../src/assests/tech_logo/mongodb.svg",
+    "value": 60
+  },
+  {
+    "id": 9,
+    "name": "Tailwind CSS",
+    "image": "../src/assests/tech_logo/tailwindcss.svg",
+    "value": 85
+  },
+  {
+    "id": 10,
+    "name": "Bootstrap",
+    "image": "../src/assests/tech_logo/bootstrap.svg",
+    "value": 80
+  },
+  {
+    "id": 11,
+    "name": "Firebase",
+    "image": "../src/assests/tech_logo/firebase.svg",
+    "value": 75
+  }
+]

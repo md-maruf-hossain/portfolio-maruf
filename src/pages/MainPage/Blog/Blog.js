@@ -1,3 +1,4 @@
+import { Button } from "@material-tailwind/react";
 import React from "react";
 import { useEffect } from "react";
 import { useState } from "react";
@@ -22,6 +23,7 @@ const Blog = () => {
           <BlogCard key={blog.id} blog={blog} />
         ))}
       </div>
+      <Button variant="filled">See More</Button>
     </div>
   );
 };
