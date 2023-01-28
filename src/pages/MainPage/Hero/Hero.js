@@ -3,7 +3,6 @@ import profile from "../../../assests/mine.png";
 import TypingAnimation from "../../../components/TypingAnimation/TypingAnimation";
 import { Button } from "@material-tailwind/react";
 import SocialMedia from "../../../components/SocialMedia/SocialMedia";
-import resume from "../../../assests/pdf/Maruf Hossain-resume.pdf";
 const Hero = () => {
   return (
     <div
@@ -27,7 +26,11 @@ const Hero = () => {
               Hire Me
             </Button>
           </a>
-          <a rel="noopener noreferrer" href={resume} download>
+          <a
+            rel="noopener noreferrer"
+            href="Maruf-Hossain-resume.pdf"
+            download="Maruf-Hossain-resume.pdf"
+          >
             <Button size="md" color="blue" variant="outlined">
               Download Resume
             </Button>
