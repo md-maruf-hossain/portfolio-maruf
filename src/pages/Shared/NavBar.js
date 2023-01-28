@@ -76,6 +76,7 @@ const NavBar = () => {
         className="p-1 font-semibold text-base"
       >
         <a
+          rel="noopener noreferrer"
           target="_blank"
           href="https://drive.google.com/file/d/1aqW3QwSf2tuMTYKb2dJncbiGHewKj-hV/view?usp=share_link"
         >

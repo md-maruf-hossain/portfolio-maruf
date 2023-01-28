@@ -27,12 +27,12 @@ const ProjectCards = ({ project }) => {
           </Typography>
         </CardBody>
         <CardFooter divider className="flex items-center justify-end py-3">
-          <a target="_blank" href={github}>
+          <a target="_blank" rel="noopener noreferrer" href={github}>
             <Button variant="filled" className="mr-4">
               GitHub
             </Button>
           </a>
-          <a target="_blank" href={liveSite}>
+          <a target="_blank" rel="noopener noreferrer" href={liveSite}>
             <Button variant="filled">Live Site</Button>
           </a>
         </CardFooter>

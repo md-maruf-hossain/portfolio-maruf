@@ -1,11 +1,9 @@
 import { Button } from "@material-tailwind/react";
 import React from "react";
-import { toast, Toaster } from "react-hot-toast";
 
 const Contact = () => {
   const handleSubmit = (event) => {
     event.preventDefault();
-    toast.success("Success");
   };
 
   return (
@@ -71,7 +69,6 @@ const Contact = () => {
                 <Button type="submit" size="md" onClick={handleSubmit}>
                   Send Message
                 </Button>
-                <Toaster />
               </div>
             </div>
           </div>

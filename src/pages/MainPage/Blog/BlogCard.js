@@ -22,7 +22,7 @@ const BlogCard = ({ blog }) => {
         </Typography>
       </CardBody>
       <CardFooter divider className="flex items-center justify-end py-3">
-        <a target="_blank" href={link}>
+        <a target="_blank" rel="noopener noreferrer" href={link}>
           <Button variant="filled">Details</Button>
         </a>
       </CardFooter>

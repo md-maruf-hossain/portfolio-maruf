@@ -33,12 +33,17 @@ const About = () => {
             </p>
             <div className="flex w-max gap-4 mt-4">
               <a
+                rel="noopener noreferrer"
                 target="_blank"
                 href="https://drive.google.com/file/d/1aqW3QwSf2tuMTYKb2dJncbiGHewKj-hV/view?usp=share_link"
               >
                 <Button variant="filled">My Resume</Button>
               </a>
-              <a target="_blank" href="https://github.com/md-maruf-hossain">
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://github.com/md-maruf-hossain"
+              >
                 <Button variant="outlined">GitHub</Button>
               </a>
             </div>

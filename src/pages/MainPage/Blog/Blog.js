@@ -25,7 +25,11 @@ const Blog = () => {
           <BlogCard key={blog.id} blog={blog} />
         ))}
       </div>
-      <a target="_blank" href="https://medium.com/@mdmarufhossain6470">
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://medium.com/@mdmarufhossain6470"
+      >
         {" "}
         <Button variant="filled">See More</Button>
       </a>
