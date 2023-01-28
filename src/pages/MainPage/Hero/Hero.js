@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="pt-16 mb-16 lg:mb-0 lg:pt-16 lg:max-w-lg lg:pr-5">
         <div className="max-w-xl mb-6">
           <p className="text-base mb-2 md:text-lg">Hi, I am</p>
-          <h2 className="max-w-lg mb-2 font-sans text-6xl font-bold tracking-tight text-light-blue-600 uppercase sm:text-4xl sm:leading-none">
+          <h2 className="max-w-lg mb-2 font-sans text-3xl font-bold tracking-tight text-light-blue-600 uppercase 2xl:text-6xl xl:text-6xl lg:text-4xl sm:text-2xl sm:leading-none">
             MD Maruf Hossain
           </h2>
           <TypingAnimation />
