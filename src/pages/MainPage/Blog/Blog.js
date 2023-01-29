@@ -20,7 +20,7 @@ const Blog = () => {
         </h2>
         <hr className="w-24 mb-10 mt-2 border-1 mx-auto border-blue-gray-300" />
       </div>
-      <div className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 justify-center gap-6">
+      <div className="grid grid-cols-1 xl:grid-cols-3 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 justify-center gap-6">
         {blogs.map((blog) => (
           <BlogCard key={blog.id} blog={blog} />
         ))}

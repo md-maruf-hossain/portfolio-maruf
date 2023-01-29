@@ -36,7 +36,7 @@ const Hero = () => {
             </Button>
           </a>
         </div>
-        <div>
+        <div className="flex justify-start">
           <SocialMedia />
         </div>
       </div>
